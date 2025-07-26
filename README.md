@@ -105,12 +105,18 @@ I believe in learning by doing — actively building projects that apply AI to s
 
 ---
 
-<h3 align="left">Certifications:</h3>
+<h3 align="left">🏅 Certifications</h3>
+
 <ul>
-  <li>Data Scientist (DataCamp)</li>
-  <li>Machine Learning with scikit-learn (DataCamp)</li>
-  <li>Python Programmer Track (DataCamp)</li>
+  <li>
+    <strong>Professional Data Scientist – DataCamp</strong><br>
+    Credential ID: <code>DS0028658821947</code><br>
+    <a href="https://www.datacamp.com/certificate/DS0028658821947" target="_blank">🔗 View Certificate</a>
+  </li>
+  <li>Machine Learning with scikit-learn – DataCamp</li>
+  <li>Python Programmer Track – DataCamp</li>
 </ul>
+
 
 ---
 
