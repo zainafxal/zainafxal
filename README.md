@@ -3,7 +3,7 @@
 
 <p align="center">
 Aspiring Data Scientist & AI Engineer passionate about transforming raw data into actionable insights and building intelligent, automation-driven AI solutions.<br>
-I believe in learning by doing — actively building projects that apply AI to solve real business challenges and create value.
+I believe in learning by doing actively building projects that apply AI to solve real business challenges and create value.
 </p>
 
 ---
